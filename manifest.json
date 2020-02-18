@@ -1,0 +1,12 @@
+{
+  "name": "lucis-dotnet-api",
+  "vendor": "vtex",
+  "version": "0.1.0",
+  "title": "Learning DotNet on IO",
+  "description": "A hello world app using VTEX IO .Net Runtime",
+  "builders": {
+    "dotnet": "2.x",
+    "docs": "0.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
